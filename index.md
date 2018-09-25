@@ -1,6 +1,6 @@
-## Welcome to GitHub Page
+## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/tamudevopsclass/website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the link to learn more Rick and Morty [Pickle RICK](https://en.wikipedia.org/wiki/Rick_and_Morty) Looks cool right? Stay tuned and listen up to get Riggedy Riggedy Recked Son!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -21,7 +21,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `next` text
+**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
