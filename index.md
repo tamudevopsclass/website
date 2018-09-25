@@ -18,8 +18,7 @@ Well you're two billion light years too late.
 just kidding (burp)
 Rick and Morty is THE BEST adult animation on Adult Swim, you gotta watc it to understand.
 
-<p align="center">
-<img src= "https://www.rpnation.com/proxy.php?image=http%3A%2F%2Fvignette2.wikia.nocookie.net%2Frickandmorty%2Fimages%2F1%2F1e%2FRick_and_morty_icon.png%2Frevision%2Flatest%3Fcb%3D20150805041642&hash=1eee72e522914502169a323fddf50cbd" alt="">
+
 
 ### Markdown
 
