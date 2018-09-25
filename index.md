@@ -33,8 +33,9 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
-
+<p align="center">
 <img class="" data-credit-provider="custom type" src="https://i.amz.mshcdn.com/4CGNvOH2wmotFrRJuG2-QNBdZVc=/fit-in/1200x9600/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F609721%2F746bb5e6-533b-4b84-9e48-d49396d0ce49.gif" data-fragment="m!e359" data-image="https://i.amz.mshcdn.com/J5UEWf_XKE9uQ50D2WXseg1DNN8=/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F609721%2F746bb5e6-533b-4b84-9e48-d49396d0ce49.gif" data-micro="1" is="">
+</P>
 
 ### Jekyll Themes
 
