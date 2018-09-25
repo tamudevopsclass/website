@@ -1,4 +1,4 @@
-[Hit Me](2nd_page)
+
 
 ## All Things Rick and Morty!
 
