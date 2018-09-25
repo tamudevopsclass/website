@@ -10,13 +10,7 @@ You can use the link to learn more Rick and Morty [Pickle RICK](https://en.wikip
 
 The wait is almost over. On May 10th Rick and Morty fans will be able to watch season four on [Hulu](https://www.hulu.com/welcome?orig_referrer=https%3A%2F%2Fwww.google.com%2F) Waste no time! Sign up for Hulu and have immediate access to all thigs Rick and Morty. 
 
-Don't know what Rick and Morty even is .....
-Well you're two billion light years too late.
-
-....
-
-just kidding (burp)
-Rick and Morty is THE BEST adult animation on Adult Swim, you gotta watc it to understand.
+..............
 
 
 
