@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Page
 
 You can use the [editor on GitHub](https://github.com/tamudevopsclass/website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -21,7 +21,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `next` text
 
 [Link](url) and ![Image](src)
 ```
