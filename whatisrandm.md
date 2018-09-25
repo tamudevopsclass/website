@@ -15,9 +15,18 @@
 
 4. Rick never wears a seatbelt (too cool for rules).
 
+5.  The pilot was WRITTEN IN SIX HOURS!!!
+
+6. Rick and Morty is ALWAYS breaking the 4th wall of television 
+
+7. Rick’s catchphrase, “wubba lubba dub dub” means “I am in great pain. Please help me.” in Bird Person’s language.
+
+8. The theme song for Rick and Morty is a parody mix of ‘Doctor Who’ and ‘Tintin.’
+
+9. The episode “Rixty Minutes” was released before it aired on Adult Swim via 109 15-second videos on Instagram. 
+
+10. Rick and Morty was featured on a Simpson's Couch Gag
+
 <p align="center">
   
-<img src= "https://www.factinate.com/wp-content/uploads/2017/05/16-3.png" alt="">
-
-
-
+<img src= "http://www.lasertimepodcast.com/wp-content/uploads/2015/05/simpsonsrickmorty.jpg" alt="">
