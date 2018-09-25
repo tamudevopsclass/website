@@ -12,7 +12,7 @@ The wait is almost over. On May 10th Rick and Morty fans will be able to watch s
 
 ..............
 
-Fun Facts about Rick and Morty located on the next page!
+
 
 ### Markdown
 
