@@ -1,6 +1,6 @@
 
 ## All Things Rick and Morty!
-
+[Fun Facts](whatisrandm.md)
 
 You can use the link to learn more Rick and Morty [Pickle RICK](https://en.wikipedia.org/wiki/Rick_and_Morty) Looks cool right? Stay tuned and listen up to get Riggedy Riggedy Recked Son!
 
