@@ -1,9 +1,7 @@
-## Welcome to GitHub Pages
+## All Things Rick and Morty
 
 You can use the link to learn more Rick and Morty [Pickle RICK](https://en.wikipedia.org/wiki/Rick_and_Morty) Looks cool right? Stay tuned and listen up to get Riggedy Riggedy Recked Son!
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+The wait is almost over. On May 10th Rick and Morty fans will be able to watch season four on [Hulu](https://www.hulu.com/welcome?orig_referrer=https%3A%2F%2Fwww.google.com%2F) Waste no time! Sign up for Hulu and have immediate access to all thigs Rick and Morty. 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
