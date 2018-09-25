@@ -3,7 +3,7 @@
 
 <p align="center">
 
-<img src= "https://www.rpnation.com/proxy.php?image=http%3A%2F%2Fvignette2.wikia.nocookie.net%2Frickandmorty%2Fimages%2F1%2F1e%2FRick_and_morty_icon.png%2Frevision%2Flatest%3Fcb%3D20150805041642&hash=1eee72e522914502169a323fddf50cbd" alt="">
+<img src= "https://upload.wikimedia.org/wikipedia/en/b/b0/Rick_and_Morty_characters.jpg" alt="">
 
 </p>
 
