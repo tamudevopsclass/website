@@ -13,8 +13,11 @@
 
 3. Rick and Morty are voiced by the same person 
 
-### Markdown
+4. Rick never wears a seatbelt (too cool for rules).
 
+<p align="center">
+  
+<img src= "https://www.factinate.com/wp-content/uploads/2017/05/16-3.png" alt="">
 
 
 
