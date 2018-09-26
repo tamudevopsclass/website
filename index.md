@@ -1,4 +1,5 @@
-## [Fun Facts](whatisrandm.md)
+## [Fun Facts](whatisrandm.md) 
+## [Season Four Info] (seasonfour.md)
 
 ## All Things Rick and Morty!
 
