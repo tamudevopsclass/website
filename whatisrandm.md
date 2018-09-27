@@ -1,3 +1,4 @@
+## [Home](index.md)
 
 ## Rick and Morty Fun Facts!
 
