@@ -14,7 +14,7 @@ The wait is almost over. On May 10th Rick and Morty fans will be able to watch s
 
 
 <br>
-WHAT TIME IS IT?!!...
+## WHAT TIME IS IT?!!...
 <p align="center">
   <img src="https://img00.deviantart.net/ec67/i/2016/034/4/3/time_to_get_schwifty__by_alesiahigdon-d9qdx66.png">
 </p>
@@ -22,7 +22,7 @@ WHAT TIME IS IT?!!...
 
 <br>
 <br>
-Always remember Pickle Rick will find you!!! 
+## Always remember Pickle Rick will find you!!! 
 <br>
 <p align="center">
 <img class="" data-credit-provider="custom type" src="https://i.amz.mshcdn.com/4CGNvOH2wmotFrRJuG2-QNBdZVc=/fit-in/1200x9600/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F609721%2F746bb5e6-533b-4b84-9e48-d49396d0ce49.gif" data-fragment="m!e359" data-image="https://i.amz.mshcdn.com/J5UEWf_XKE9uQ50D2WXseg1DNN8=/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F609721%2F746bb5e6-533b-4b84-9e48-d49396d0ce49.gif" data-micro="1" is="">
