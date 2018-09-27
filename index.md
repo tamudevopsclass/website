@@ -12,11 +12,12 @@ You can use the link to learn more Rick and Morty [Pickle RICK](https://en.wikip
 
 The wait is almost over. On May 10th Rick and Morty fans will be able to watch season four on [Hulu](https://www.hulu.com/welcome?orig_referrer=https%3A%2F%2Fwww.google.com%2F) Waste no time! Sign up for Hulu and have immediate access to all things Rick and Morty. 
 
-WHAT TIME IS IT?!!...
 
+<br>
+WHAT TIME IS IT?!!...
 <p align="center">
   <img src="https://img00.deviantart.net/ec67/i/2016/034/4/3/time_to_get_schwifty__by_alesiahigdon-d9qdx66.png">
- </p>
+</p>
 
 
 
